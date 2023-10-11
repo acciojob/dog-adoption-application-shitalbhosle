@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+form{
+	width: 550px;
+	background:chocolate;
+	padding:10px;
+	border-radius:5px
+}
+input{
+	width:100%;
+	padding:7px 0;
+	border:none;
+	margin-top:5px;
+	border-radius:2px;
+}
+label{
+	font-size:17px;
+	
+}
+
+
+
+
